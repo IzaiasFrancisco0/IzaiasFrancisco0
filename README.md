@@ -1,6 +1,6 @@
 # Olá eu sou o Izaias 😆<br>
 Sou Dev Front-End 🎉<br>
-Estundo React no momento 👓<br>
+Estudando React no momento 👓<br>
 Buscando uma oportunidade de estágio 🎈
 
 <h3>
