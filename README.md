@@ -1,10 +1,10 @@
-<h1>Olá eu sou o Izaias 😆</h1>
+<h1>Olá, eu sou o Izaias 😆</h1>
 <span>Dev Front-End 🎉</span><br>
 <span>Buscando uma oportunidade de estágio 🎈</span><br>
 <span>Estudando React no momento 👓</span>
 
 <h2>Sobre min:</h2>
-<p>Estou estudando programação há um tempo, comecei por Desenvolvimento Web,<br> fazendo diversos cursos e praticando, fazendo projetos pessoais como, Sites, ecomerces e Landing pages,<br> gosto muito de fazer coisas novas e inovar, nessa parte sou bem criativo!!</p>
+<p>Estou estudando programação há um tempo, comecei por desenvolvimento web,<br> fazendo diversos projetos pessoais, para aperfeiçoar meus conhecimentos, como sites, cruds e landing pages,<br> gosto muito de criar coisas novas, aplicando minha criatividade...</p>
 
 <h3>Tecnologias que uso:</h3>
 <div class="tecnologias">
