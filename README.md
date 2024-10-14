@@ -18,6 +18,7 @@
 
 <h4>Redes Sociais</h4>
 <div class="redes">
+  <i class="fa-brands fa-linkedin"><a href="https://www.linkedin.com/in/izaias-francisco-s/"></i>
   <button><a href="https://www.linkedin.com/in/izaias-francisco-s/">Linkedin</button>
   <button><a href="https://www.instagram.com/izaiasfrancisco0/">Instagram</button>
   <button><a href="https://web.whatsapp.com/">wathsapp</button>
