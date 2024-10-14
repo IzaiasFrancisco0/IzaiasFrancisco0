@@ -6,7 +6,7 @@
 <span>Estudando React no momento 👓</span>
 
 <h2>Sobre min:</h2>
-<p>Estou estudando programação há um tempo, comecei por desenvolvimento web,<br> fazendo diversos projetos pessoais, para aperfeiçoar meus conhecimentos, como sites, cruds e landing pages,<br> gosto muito de criar coisas novas, aplicando minha criatividade...</p>
+Estou estudando programação há um tempo. Comecei por desenvolvimento web, fazendo diversos projetos pessoais para aperfeiçoar meus conhecimentos, como sites, CRUDs e landing pages. Gosto muito de criar coisas novas, aplicando minha criatividade.
 
 <h3>Tecnologias que uso:</h3>
 <div class="tecnologias">
@@ -20,7 +20,6 @@
 
 <h4>Redes Sociais</h4>
 <div class="redes">
-  <i class="fa-brands fa-linkedin"><a href="https://www.linkedin.com/in/izaias-francisco-s/"></i>
   <button><a href="https://www.linkedin.com/in/izaias-francisco-s/">Linkedin</button>
   <button><a href="https://www.instagram.com/izaiasfrancisco0/">Instagram</button>
   <button><a href="https://web.whatsapp.com/">wathsapp</button>
