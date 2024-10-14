@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
 <h1>Olá, eu sou o Izaias 😆</h1>
 <span>Dev Front-End 🎉</span><br>
 <span>Buscando uma oportunidade de estágio 🎈</span><br>
