@@ -8,18 +8,22 @@
 Estou estudando desenvolvimento web há um tempo, fazendo diversos projetos pessoais para aperfeiçoar meus conhecimentos, como sites, CRUDs e landing pages. Gosto muito de criar coisas novas, aplicando meus conhecimentos e criatividade, tenho familiaridade em tecnologias como html, css, javascript, typescript e react.
 
 <h2>Techs</h2>
-<div class="tecnologias">
-  <img src="https://logospng.org/download/html-5/logo-html-5-768.png" width="50px"; height="50px"; style="margin-right: "10px"";/>
-  <img src="https://logospng.org/download/css-3/logo-css-3-2048.png" width="50px"; height="50px"; style="margin-right: "10px;"/>
-  <img src="https://th.bing.com/th/id/R.63854f9965b69b8fd5d9615838419846?rik=PxJ95FYrD2W81A&pid=ImgRaw&r=0" width="50px"; height="50px"; style="margin-right: 10px;"/>
-  <img src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-1024x1024-vh3pfez8.png" width="50px"; height="50px"; />
-  <img src="https://flyclipart.com/thumb2/learn-react-221718.png" width="50px"; 
-   height="50px"; style="margin-right: 10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png?20230715030042" width="50px"; height="50px"; style="margin-right: 10px;"/>
-  <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3247797/mysql-icon-sm.png" width="50px"; height="50px"; style="margin-right: 10px;"/>
-
- 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
+
 
 <h2>Contacts</h2>
 <div class="redes">
@@ -27,7 +31,7 @@ Estou estudando desenvolvimento web há um tempo, fazendo diversos projetos pess
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40px" height="40px" alt="LinkedIn">
 </a>
   <a href="mailto:izaiasfrancisco2020@gmail.com?subject=Assunto%20do%20Email&body=Texto%20inicial%20do%20email" target="_blank">
-    <img src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png" width="60px"; height="40px"; alt="LinkedIn">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60px"; height="40px"; alt="LinkedIn">
 </a>
 </div>
 
@@ -35,5 +39,10 @@ Estou estudando desenvolvimento web há um tempo, fazendo diversos projetos pess
   <img src="https://github-readme-stats.vercel.app/api?username=IzaiasFrancisco0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IzaiasFrancisco0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+
+###
 
 ###
