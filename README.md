@@ -1,14 +1,13 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
-<h1>Olá, eu sou o Izaias 😆</h1>
-<span>Dev Front-End 🎉</span><br>
-<span>Buscando uma oportunidade de estágio 🎈</span><br>
-<span>Estudando React no momento 👓</span>
+<h2>About me</h2>
+<span>-Desenvolvedor Front-End</span><br>
+<span>-Cursando Análise e Desenvolvimento de Sistemas</span><br>
 
-<h2>Sobre min:</h2>
-Estou estudando programação há um tempo. Comecei por desenvolvimento web, fazendo diversos projetos pessoais para aperfeiçoar meus conhecimentos, como sites, CRUDs e landing pages. Gosto muito de criar coisas novas, aplicando minha criatividade.
+<h2>Resum</h2>
+Estou estudando desenvolvimento web há um tempo, fazendo diversos projetos pessoais para aperfeiçoar meus conhecimentos, como sites, CRUDs e landing pages. Gosto muito de criar coisas novas, aplicando meus conhecimentos e criatividade, tenho familiaridade em tecnologias como html, css, javascript, typescript e react.
 
-<h3>Tecnologias que uso:</h3>
+<h2>Techs</h2>
 <div class="tecnologias">
   <img src="https://logospng.org/download/html-5/logo-html-5-768.png" width="50px"; height="50px";/>
   <img src="https://logospng.org/download/css-3/logo-css-3-2048.png" width="50px"; height="50px";/>
