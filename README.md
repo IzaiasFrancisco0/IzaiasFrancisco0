@@ -19,8 +19,8 @@ Estou estudando desenvolvimento web há um tempo, fazendo diversos projetos pess
   <img src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-1024x1024-vh3pfez8.png" width="50px"; height="50px"; />
 </div>
 
-<h4>Contacts</h4>
+<h2>Contacts</h2>
 <div class="redes">
-  <button><a href="https://www.linkedin.com/in/izaias-francisco-s/">Linkedin</button>
-  <img src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png"><a href=""> </a> />
+  <img src="https://th.bing.com/th/id/OIP.P_z8uTsVJ8tmPn2prJwOpQHaHa?rs=1&pid=ImgDetMain" width="50px"; height="50px";><a href="https://www.linkedin.com/in/izaias-francisco-s/"> </a> 
+  <img src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png" width="50px"; height="50px";><a href=""> </a> 
 </div>
