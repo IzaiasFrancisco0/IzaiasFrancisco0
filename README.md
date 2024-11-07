@@ -9,7 +9,7 @@ Estou estudando desenvolvimento web há um tempo, fazendo diversos projetos pess
 
 <h2>Techs</h2>
 <div class="tecnologias">
-  <img src="https://logospng.org/download/html-5/logo-html-5-768.png" width="50px"; height="50px";/>
+  <img src="https://logospng.org/download/html-5/logo-html-5-768.png" width="50px"; height="50px"; padding-right="10px";/>
   <img src="https://logospng.org/download/css-3/logo-css-3-2048.png" width="50px"; height="50px";/>
   <img src="https://th.bing.com/th/id/R.63854f9965b69b8fd5d9615838419846?rik=PxJ95FYrD2W81A&pid=ImgRaw&r=0" width="50px"; height="50px";/>
   <img src="https://th.bing.com/th/id/R.c3ba82a536fe4983dad4c06b578dcd5d?rik=F2s%2bS%2fWmkU2dew&riu=http%3a%2f%2fassets.stickpng.com%2fimages%2f584830f5cef1014c0b5e4aa1.png&ehk=nr30%2foGRF6ObcWbuK6%2b%2bzHxe3w8Jb0cawQ6zBp1sH3E%3d&risl=&pid=ImgRaw&r=0" width="50px"; 
@@ -22,5 +22,5 @@ Estou estudando desenvolvimento web há um tempo, fazendo diversos projetos pess
 <h2>Contacts</h2>
 <div class="redes">
   <img src="https://th.bing.com/th/id/OIP.P_z8uTsVJ8tmPn2prJwOpQHaHa?rs=1&pid=ImgDetMain" width="50px"; height="50px";><a href="https://www.linkedin.com/in/izaias-francisco-s/"> </a> 
-  <img src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png" width="50px"; height="50px";><a href=""> </a> 
+  <img src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png" width="70px"; height="50px";><a href=""> </a> 
 </div>
