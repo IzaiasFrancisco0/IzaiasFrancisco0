@@ -21,7 +21,7 @@ Estou estudando desenvolvimento web há um tempo, fazendo diversos projetos pess
 
 <h2>Contacts</h2>
 <div class="redes">
-<a href="https://www.linkedin.com/in/izaias-francisco-s/" target="_blank">
+<a href="https://www.linkedin.com/in/izaias-francisco-s/" target="_blank" style="padding-right: 10px;">
     <img src="https://th.bing.com/th/id/OIP.P_z8uTsVJ8tmPn2prJwOpQHaHa?rs=1&pid=ImgDetMain" width="40px" height="40px" alt="LinkedIn">
 </a>
   <a href="mailto:izaiasfrancisco2020@gmail.com?subject=Assunto%20do%20Email&body=Texto%20inicial%20do%20email" target="_blank">
