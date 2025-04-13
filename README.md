@@ -21,7 +21,7 @@ Estou estudando desenvolvimento web há um tempo, fazendo diversos projetos pess
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://logospng.org/wp-content/uploads/mongodb.png" height="40" alt="mysql logo"  />
+  <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" height="40" alt="mysql logo"  />
 </div>
 
 
