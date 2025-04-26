@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
 <h2>About me</h2>
-<span>- Desenvolvedor Front-End</span><br>
+<span>- Desenvolvedor Full-Stack</span><br>
 <span>- Cursando Análise e Desenvolvimento de Sistemas</span><br>
 
 <h2>Resume</h2>
