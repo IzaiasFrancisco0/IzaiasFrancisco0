@@ -19,11 +19,11 @@ Estou estudando desenvolvimento web há um tempo, fazendo diversos projetos pess
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://img.icons8.com/color/512/nodejs.png" height="40" alt="node.js logo" />
+  <img src="https://img.icons8.com/color/512/nodejs.png" height="50" alt="node.js logo" />
    <img width="12" />
-  <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png"  height="40" alt="mongodb logo" />
+  <img src="https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Image-HD.png"  height="50" alt="mongodb logo" />
    <img width="12" />
 </div>
 
