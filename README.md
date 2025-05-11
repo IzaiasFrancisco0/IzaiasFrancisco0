@@ -5,7 +5,7 @@
 <span>- Cursando Análise e Desenvolvimento de Sistemas</span><br>
 
 <h2>Resume</h2>
-Estou estudando desenvolvimento web há um tempo, fazendo diversos projetos pessoais para aperfeiçoar meus conhecimentos, como sites, CRUDs e landing pages. Gosto muito de criar coisas novas, aplicando meus conhecimentos e criatividade, tenho familiaridade em tecnologias como html, css, javascript, typescript e react.
+Estou estudando desenvolvimento web há um tempo, fazendo diversos projetos pessoais para aperfeiçoar meus conhecimentos, como sites, CRUDs e landing pages. Gosto muito de criar coisas novas, aplicando meus conhecimentos e criatividade, tenho familiaridade em tecnologias como html, css, javascript, typescript, react, node.js e mongodb.
 
 <h2>Techs</h2>
 <div align="left">
@@ -21,6 +21,10 @@ Estou estudando desenvolvimento web há um tempo, fazendo diversos projetos pess
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
+  <img src="https://img.icons8.com/color/512/nodejs.png" height="40" alt="node.js logo" />
+   <img width="12" />
+  <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png"  height="40" alt="mongodb logo" />
+   <img width="12" />
 </div>
 
 
