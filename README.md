@@ -33,15 +33,6 @@ Estudo desenvolvimento frontend e backend há cerca de 2 anos. Já realizei dive
 </div>
 
 
-<h2>Contatos</h2>
-<div class="redes">
-<a href="https://www.linkedin.com/in/izaias-francisco-s/" target="_blank" style="padding-right: 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40px" height="40px" alt="LinkedIn">
-</a>
-  <a href="mailto:izaiasfrancisco2020@gmail.com?subject=Assunto%20do%20Email&body=Texto%20inicial%20do%20email" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60px"; height="40px"; alt="LinkedIn">
-</a>
-</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IzaiasFrancisco0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
