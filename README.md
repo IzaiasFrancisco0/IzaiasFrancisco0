@@ -31,7 +31,9 @@ Estudo desenvolvimento frontend e backend há cerca de 2 anos. Já realizei dive
      <img width="12" />
   <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="mongoDB" title="mongoDB"/>
 </div>
-
+<div>
+  
+</div>
 
 
 <div align="center">
