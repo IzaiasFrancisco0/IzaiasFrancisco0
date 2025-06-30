@@ -1,13 +1,13 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
-<h2>About me</h2>
+<h2>Sobre Mim</h2>
 <span>- Desenvolvedor Full-Stack</span><br>
 <span>- Cursando Análise e Desenvolvimento de Sistemas</span><br>
 
-<h2>Resume</h2>
-Estou estudando desenvolvimento web há um tempo, fazendo diversos projetos pessoais para aperfeiçoar meus conhecimentos, como sites, CRUDs e landing pages. Gosto muito de criar coisas novas, aplicando meus conhecimentos e criatividade, tenho familiaridade em tecnologias como html, css, javascript, typescript, react, node.js e mongodb.
+<h2>Resumo Profissional</h2>
+Estudo desenvolvimento frontend e backend há cerca de 2 anos. Já realizei diversos projetos pessoais e alguns freelances, onde adquiri habilidades técnicas e experiência prática em programação. Tenho vários projetos, como sites, sistemas e landing pages. Gosto muito de criar soluções novas para problemas específicos, aplicando meu conhecimento e criatividade. Atualmente, estou em busca de uma oportunidade de estágio ou posição júnior.
 
-<h2>Techs</h2>
+<h2>Tecnologias</h2>
 <div align="left">
   <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/>
   <img width="12" />
@@ -33,7 +33,7 @@ Estou estudando desenvolvimento web há um tempo, fazendo diversos projetos pess
 </div>
 
 
-<h2>Contacts</h2>
+<h2>Contatos</h2>
 <div class="redes">
 <a href="https://www.linkedin.com/in/izaias-francisco-s/" target="_blank" style="padding-right: 10px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40px" height="40px" alt="LinkedIn">
