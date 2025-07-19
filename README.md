@@ -2,7 +2,7 @@
 
 <h2>Sobre Mim</h2>
 <span>- Desenvolvedor Full-Stack</span><br>
-<span>- Cursando Análise e Desenvolvimento de Sistemas</span><br>
+<span>- Cursando Ciências da Computação</span><br>
 
 <h2>Resumo Profissional</h2>
 Estudo desenvolvimento frontend e backend há cerca de 2 anos. Já realizei diversos projetos pessoais e alguns freelances, onde adquiri habilidades técnicas e experiência prática em programação. Tenho vários projetos, como sites, sistemas e landing pages. Gosto muito de criar soluções novas para problemas específicos, aplicando meu conhecimento e criatividade. Atualmente, estou em busca de uma oportunidade de estágio ou posição júnior.
