@@ -1,11 +1,15 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
 <h2>Sobre Mim</h2>
-<span>- Desenvolvedor Full-Stack</span><br>
-<span>- Cursando Ciências da Computação</span><br>
+<span>Desenvolvedor Full-Stack</span><br>
+<span>Cursando Ciência da Computação</span><br>
 
 <h2>Resumo Profissional</h2>
-Estudo desenvolvimento frontend e backend há cerca de 2 anos. Já realizei diversos projetos pessoais e alguns freelances, onde adquiri habilidades técnicas e experiência prática em programação. Tenho vários projetos, como sites, sistemas e landing pages. Gosto muito de criar soluções novas para problemas específicos, aplicando meu conhecimento e criatividade. Atualmente, estou em busca de uma oportunidade de estágio ou posição júnior.
+Desenvolvedor Full Stack com cerca de 2 anos de experiência prática em Frontend e Backend, construindo projetos reais que vão de landing pages a sistemas completos. Ao longo da minha jornada, desenvolvi aplicações utilizando tecnologias modernas, sempre focando em código limpo, organização e boas práticas.
+
+Tenho perfil autodidata, gosto de transformar ideias em soluções funcionais e resolver problemas de forma criativa e eficiente. Já atuei em projetos pessoais e freelances, o que me proporcionou vivência prática com requisitos reais, organização de funcionalidades e entrega de valor.
+
+Atualmente, busco uma oportunidade como estagiário ou desenvolvedor júnior para contribuir com meu conhecimento, evoluir tecnicamente e crescer junto com a empresa.
 
 <h2>Tecnologias</h2>
 <div align="left">
