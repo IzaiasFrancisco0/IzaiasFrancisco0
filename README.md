@@ -1,15 +1,30 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
-<h2>Sobre Mim</h2>
-<span>Desenvolvedor Full-Stack</span><br>
-<span>Cursando Ciência da Computação</span><br>
+<h2>🚀 Sobre Mim</h2>
+<span><strong>Desenvolvedor Full-Stack</strong></span><br>
+<span>🎓 Cursando Ciência da Computação</span><br>
+<span>💡 Focado em construir soluções reais e escaláveis</span>
 
-<h2>Resumo Profissional</h2>
-Desenvolvedor Full Stack com cerca de 2 anos de experiência prática em Frontend e Backend, construindo projetos reais que vão de landing pages a sistemas completos. Ao longo da minha jornada, desenvolvi aplicações utilizando tecnologias modernas, sempre focando em código limpo, organização e boas práticas.
+<h2>🧠 Resumo Profissional</h2>
 
-Tenho perfil autodidata, gosto de transformar ideias em soluções funcionais e resolver problemas de forma criativa e eficiente. Já atuei em projetos pessoais e freelances, o que me proporcionou vivência prática com requisitos reais, organização de funcionalidades e entrega de valor.
+Sou Desenvolvedor Full Stack com cerca de 2 anos de experiência prática construindo aplicações web completas, atuando tanto no Frontend quanto no Backend.
 
-Atualmente, busco uma oportunidade como estagiário ou desenvolvedor júnior para contribuir com meu conhecimento, evoluir tecnicamente e crescer junto com a empresa.
+Tenho experiência no desenvolvimento de:
+✔️ Landing Pages modernas e responsivas  
+✔️ Sistemas completos com autenticação e banco de dados  
+✔️ APIs RESTful  
+✔️ Integrações entre frontend e backend  
+✔️ Segurança e escalabilidade 
+
+Trabalho com foco em:
+🔹 Código limpo e organizado  
+🔹 Boas práticas e arquitetura  
+🔹 Performance e experiência do usuário  
+🔹 Resolução criativa de problemas  
+
+Sou autodidata, gosto de aprender tecnologias novas e transformar ideias em produtos funcionais. Já desenvolvi diversos projetos pessoais e freelances, o que me proporcionou experiência prática.
+
+Atualmente busco uma oportunidade como Estagiário ou Desenvolvedor Júnior para evoluir tecnicamente, contribuir com o time e participar da construção da empresa.
 
 <h2>Tecnologias</h2>
 <div align="left">
