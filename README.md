@@ -7,9 +7,10 @@
 
 <h2>🧠 Resumo Profissional</h2>
 
-Sou Desenvolvedor Full Stack com cerca de 2 anos de experiência prática construindo aplicações web completas, atuando tanto no Frontend quanto no Backend.
+Sou Desenvolvedor Full Stack com cerca de 3 anos de experiência prática construindo aplicações web completas, atuando tanto no Frontend quanto no Backend.
 
 Tenho experiência no desenvolvimento de:
+
 ✔️ Landing Pages modernas e responsivas  
 ✔️ Sistemas completos com autenticação e banco de dados  
 ✔️ APIs RESTful  
@@ -17,6 +18,7 @@ Tenho experiência no desenvolvimento de:
 ✔️ Segurança e escalabilidade 
 
 Trabalho com foco em:
+
 🔹 Código limpo e organizado  
 🔹 Boas práticas e arquitetura  
 🔹 Performance e experiência do usuário  
