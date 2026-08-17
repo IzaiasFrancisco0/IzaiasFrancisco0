@@ -79,10 +79,8 @@ Também possuo conhecimentos em <strong>desenvolvimento de software, bancos de d
 
 <br>
 
-<strong>Infraestrutura:</strong> Linux • Windows Server • Active Directory • DNS • DHCP • TCP/IP • VirtualBox • Docker • Backup • SSH
-
-<br><br>
-
+<strong>Infraestrutura:</strong> Linux • AWS • Windows Server • Active Directory • DNS • DHCP • TCP/IP • VirtualBox • Docker • Backup 
+<br>
 <strong>Desenvolvimento:</strong> JavaScript • TypeScript • React • Node.js • APIs REST • SQL • NoSQL
 
 <h2>🔬 Laboratórios e Projetos</h2>
@@ -101,17 +99,7 @@ Entre os projetos:
 
 <h2>🎯 Objetivo</h2>
 
-Busco uma oportunidade de <strong>estágio ou posição inicial em Infraestrutura de TI, Sistemas ou Suporte</strong>, onde possa aplicar meus conhecimentos, aprender com profissionais experientes e contribuir para a manutenção, disponibilidade e evolução dos ambientes de tecnologia.
-
-Tenho interesse em continuar evoluindo principalmente nas áreas de <strong>Linux, redes, servidores, cloud, segurança, automação e administração de sistemas</strong>.
-
-<h2>📊 GitHub</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IzaiasFrancisco0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IzaiasFrancisco0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-</div>
+Busco uma oportunidade de <strong>estágio ou posição inicial em Infraestrutura de TI, Sistemas ou Suporte</strong>, onde possa aplicar meus conhecimentos, aprender com profissionais experientes e contribuir para a manutenção, disponibilidade e evolução dos ambientes de tecnologia. Tenho interesse em continuar evoluindo principalmente nas áreas de <strong>Linux, redes, servidores, cloud, segurança, automação e administração de sistemas</strong>.
 
 <h2>📫 Contato</h2>
 
