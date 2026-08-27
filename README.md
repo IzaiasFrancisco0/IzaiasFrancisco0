@@ -1,10 +1,9 @@
 <h2>👋 Sobre Mim</h2>
-
-<span><strong>Estudante de Ciência da Computação | Infraestrutura de TI | Sistemas</strong></span><br> <span>🎓 Cursando Ciência da Computação</span><br> <span>🖥️ Interesse em Infraestrutura e Sistemas</span><br> <span>🚀 Focado em aprendizado contínuo e desenvolvimento de soluções práticas</span>
+Interesse em Infraestrutura e Sistemas</span><br> <span>🚀 Focado em aprendizado contínuo e desenvolvimento de soluções práticas</span>
 
 <h2>🧠 Resumo Profissional</h2>
 
-Sou estudante de <strong>Ciência da Computação</strong>, com foco no desenvolvimento de conhecimentos em <strong>Infraestrutura de TI, Sistemas e Suporte</strong>.
+Sou estudante de <strong>Ciência da Computação</strong>, com foco no desenvolvimento de conhecimentos em <strong>Infraestrutura de TI e Sistemas</strong>.
 
 Tenho experiência prática por meio de projetos e laboratórios envolvendo:
 
