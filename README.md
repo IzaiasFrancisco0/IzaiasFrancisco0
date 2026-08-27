@@ -1,6 +1,6 @@
 <h2>👋 Sobre Mim</h2>
 
-<span><strong>Estudante de Ciência da Computação | Infraestrutura de TI | Sistemas</strong></span><br> <span>🎓 Cursando Ciência da Computação</span><br> <span>🖥️ Interesse em Infraestrutura, Sistemas e Redes</span><br> <span>🚀 Focado em aprendizado contínuo e desenvolvimento de soluções práticas</span>
+<span><strong>Estudante de Ciência da Computação | Infraestrutura de TI | Sistemas</strong></span><br> <span>🎓 Cursando Ciência da Computação</span><br> <span>🖥️ Interesse em Infraestrutura e Sistemas</span><br> <span>🚀 Focado em aprendizado contínuo e desenvolvimento de soluções práticas</span>
 
 <h2>🧠 Resumo Profissional</h2>
 
@@ -9,15 +9,12 @@ Sou estudante de <strong>Ciência da Computação</strong>, com foco no desenvol
 Tenho experiência prática por meio de projetos e laboratórios envolvendo:
 
 ✔️ Administração de sistemas Linux<br>
-✔️ Windows e Windows Server<br>
+✔️ Windows Server<br>
 ✔️ Active Directory (AD)<br>
 ✔️ Redes TCP/IP, DNS e DHCP<br>
-✔️ Virtualização com VirtualBox<br>
 ✔️ Gerenciamento de usuários, grupos e permissões<br>
-✔️ Segurança e hardening de sistemas<br>
 ✔️ Docker e ambientes de serviços<br>
 ✔️ Backup e administração de servidores<br>
-✔️ Diagnóstico e resolução de problemas
 
 Também possuo conhecimentos em <strong>desenvolvimento de software, bancos de dados e APIs</strong>, o que me permite compreender diferentes partes de um ambiente tecnológico e ter uma visão mais ampla dos sistemas.
 
@@ -28,9 +25,7 @@ Também possuo conhecimentos em <strong>desenvolvimento de software, bancos de d
 🖥️ <strong>Infraestrutura de TI</strong><br>
 🌐 <strong>Desenvolvimento de Sistemas</strong><br>
 🐧 <strong>Linux e Administração de Servidores</strong><br>
-🪟 <strong>Windows Server e Active Directory</strong><br>
-🔐 <strong>Segurança da Informação</strong><br>
-☁️ <strong>Cloud e Serviços de TI</strong><br>
+☁️ <strong>Cloud</strong><br>
 ⚙️ <strong>Automação e Administração de Sistemas</strong><br>
 
 </div>
@@ -99,7 +94,7 @@ Entre os projetos:
 
 <h2>🎯 Objetivo</h2>
 
-Busco uma oportunidade de <strong>estágio ou posição inicial em Infraestrutura de TI, Sistemas ou Suporte</strong>, onde possa aplicar meus conhecimentos, aprender com profissionais experientes e contribuir para a manutenção, disponibilidade e evolução dos ambientes de tecnologia. Tenho interesse em continuar evoluindo principalmente nas áreas de <strong>Linux, redes, servidores, cloud, segurança, automação e administração de sistemas</strong>.
+Busco uma oportunidade de <strong>estágio ou posição inicial em Infraestrutura de TI ou Sistemas</strong>, onde possa aplicar meus conhecimentos, aprender com profissionais experientes e contribuir para a manutenção, disponibilidade e evolução dos ambientes de tecnologia. Tenho interesse em continuar evoluindo principalmente nas áreas de <strong>Linux, redes, servidores, cloud, segurança, automação e administração de sistemas</strong>.
 
 <h2>📫 Contato</h2>
 
